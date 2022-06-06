@@ -1,4 +1,4 @@
-# mwp Prject
+# MWP Project
 MWP is a free website to sharing all modding tools for phone (desktop soon). MWP is also the only website with this purpose.
 
 # Features
