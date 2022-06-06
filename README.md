@@ -6,7 +6,7 @@ The diffirence between Telegram channels and MWP:
 
 |       |  MWP  | Telegram |
 | ------------- | ------------- | ------------- |
-| Accesibility | Anytime/Anywhere | Verification |
-| Latest Version | Always | Late |
-| Single Source | Yes | Multip Channels |
-| Arranged | Yes | Confused | 
+| **Accesibility** | Anytime/Anywhere | Verification |
+| **Latest Version** | Always | Late |
+| **Single Source** | Yes | Multip Channels |
+| **Arranged** | Yes | Confused | 
