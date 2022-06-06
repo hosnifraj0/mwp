@@ -1,0 +1,22 @@
+
+  body {
+    font-family: google;
+}
+#toolbar {
+    text-align:right;
+    background-color: orange;
+    padding: 5px;
+    margin: 0 auto;
+}
+
+#title{
+    width: 50%;
+    float: left;
+    text-align:center;
+    font-size:xx-large ;
+}
+
+@font-face {
+    font-family: google;
+    src: url(../assets/fonts/google.ttf);
+  }
